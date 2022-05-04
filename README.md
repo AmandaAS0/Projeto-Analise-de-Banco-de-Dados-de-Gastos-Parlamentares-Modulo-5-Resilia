@@ -1,4 +1,4 @@
-<h1 align="center">Projeto 6- Data Analytics</h1>
+<h1 align="center">Projeto 5 - Data Analytics</h1>
 
 <h2>Análise exploratória da CEAP (cota para o exercício da atividade parlamentar) e plotagem de gráficos resultantes das análises utilizando Google Colab, pandas, numpy, seaborn, matplotlib... </h2> <p>
   
